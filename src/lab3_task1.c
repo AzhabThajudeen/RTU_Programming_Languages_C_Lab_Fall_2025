@@ -1,6 +1,6 @@
 /*
  * Lab 3, Task 1
- * Student Name, Student ID
+ * Azhab.Thajudeen, Student ID :241ADB047
  *
  * Implement array algorithms:
  *   - find minimum value
